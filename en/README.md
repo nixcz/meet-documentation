@@ -39,19 +39,19 @@ EN 0.1a / 20230926
 <br />
 
 ## List of functions of individual modules (🚧 TODO?)
-- Core (Main modules)
+- Core *(Main modules)*
      - **Users** - user management, possibility to export qr codes, etc
      - **Companies** - company management
 
-- Meeting (Modules related to event organization)
-     - **Events** - Event management (the application supports managing and storing multiple Events)
+- Meeting *(Modules related to event organization)*
+     - **Events** - Event management *(the application supports managing and storing multiple Events)*
      - **Subevents**
      - **Registrations** - all registrations for specific events, including their statuses
      - **Slots**
      - **Locations**
      - **Meetings**
 
-- Messaging (Modules related to emails, comments and private messages)
+- Messaging *(Modules related to emails, comments and private messages)*
      - **Mail Templates**
      - **Messages**
      - **Queued Mails**
