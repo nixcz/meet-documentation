@@ -25,7 +25,7 @@ CZ 0.15 / 20231130
 </tr>
 </table>
 
-> **IMPORTANT**
+> [!IMPORTANT]  
 >🚧 Na této dokumentaci se stále intenzivně pracuje!!! 🚧
 
 <details>
@@ -73,7 +73,7 @@ editačního formuláře
 ## 📦 Moduly aplikace MEET
 
 
-> **Important**
+> [!IMPORTANT]  
 **[Základní rozvržení modulů](pages/0006.md)** a jak s nimi pracovat
 
 - ![Dashboard](../_data/000.svg#gh-light-mode-only) ![Dashboard](../_data/dark/000.svg#gh-dark-mode-only)  **[Dashboard](pages/0002.md)** 
