@@ -29,7 +29,7 @@ CZ 0.15 / 20231130
 >🚧 This documentation is still being intensively worked on!!! 🚧
 
 <details>
-<summary><strong>⚠️ LEGEND of icons used across documentation 📌</strong>
+<summary><strong>⚠️ LEGEND of icons used throughout the documentation 📌</strong>
 <br /><br />
 </summary>
 
