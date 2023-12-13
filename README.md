@@ -19,6 +19,10 @@ Choose guide language:
 ###  [ENGLISH](en/README.md) | [ČESKY](cs/README.md) 
 
 ---
+<br />
+> [!IMPORTANT]
+>🚧 **This documentation is still being intensively worked on!!!** If you come across any shortcomings, errors or that something is missing, please contact us at: dev@nix.cz 🚧
+
 <br /><br /><br /><br />
 # 📢 What is MEET?
 

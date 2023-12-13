@@ -26,7 +26,7 @@ CZ 0.15 / 20231130
 </table>
 
 > [!IMPORTANT]
->🚧 This documentation is still being intensively worked on!!! 🚧
+>🚧 **This documentation is still being intensively worked on!!!** If you come across any shortcomings, errors or that something is missing, please contact us at: dev@nix.cz 🚧
 
 <details>
 <summary><strong>⚠️ LEGEND of icons used throughout the documentation 📌</strong>
