@@ -110,7 +110,7 @@ editačního formuláře
 
 - **[Settings](pages/0010.md)** *(Moduly s nastavením)*
     - ![Global Configuration](../_data/18.svg#gh-light-mode-only) ![Global Configuration](../_data/dark/18.svg#gh-dark-mode-only)
-    **[Global Configuration](pages/0010.md#_2)** 🔧
+    **[Global Configuration](pages/0010.md#_1)** 🔧
     - ![API Tokens](../_data/12.svg#gh-light-mode-only) ![API Tokens](../_data/dark/12.svg#gh-dark-mode-only)
     &nbsp;**[API Tokens](pages/0010.md#_2)** 🔧
 
