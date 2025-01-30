@@ -19,12 +19,7 @@ Choose guide language:
 ###  [ENGLISH](en/README.md) | [ČESKY](cs/README.md) 
 
 ---
-<br />
-
->[!IMPORTANT]
->🚧 **This documentation is still being intensively worked on!!!** If you come across any shortcomings, errors or that something is missing, please contact us at: dev@nix.cz 🚧
-
-<br /><br /><br /><br />
+<br /><br /><br />
 # 📢 What is MEET?
 
 Watch the presentation video on our product website (***unmute sounds!***)
@@ -33,6 +28,6 @@ Watch the presentation video on our product website (***unmute sounds!***)
 
 <br /><br />
 
-Copyright &copy; 2023 [NIX.cz](https://nix.cz) z.s.p.o. All rights reserved
+Copyright &copy; 2025 [NIX.cz](https://nix.cz) z.s.p.o. All rights reserved
 
 </td></tr></table>

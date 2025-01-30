@@ -17,7 +17,7 @@
 |   \ / _ \ / __/ __| 
 | |) | (_) | (__\__ \
 |___/ \___/ \___|___/
-CZ 0.15 / 20231130
+CZ 0.3 / 20250201
 ``` 
 </small>
 
@@ -26,7 +26,7 @@ CZ 0.15 / 20231130
 </table>
 
 > [!IMPORTANT]  
->🚧 **Na této dokumentaci se stále intenzivně pracuje!!!** Pokud narazíte na nějaké nedostatky, chyby či že zde něco chybí prosím kontaktujte nás na adrese: dev@nix.cz 🚧
+>✨ **NOVINKY** - takto jsou označené funkce které jsou součástí nejnovějšího release aplikace
 
 <details>
 <summary><strong>⚠️ LEGENDA ikon použitých napříč dokumentací 📌</strong>
@@ -34,8 +34,8 @@ CZ 0.15 / 20231130
 </summary>
 
 >
-> ⚠️ **Důležitá informace**
->
+> ✨ **NOVINKA**  
+> ⚠️ **Důležitá informace**  
 > 🚧 **Nepoužívá se, připraveno do budoucna, rozpracované**
 >
 > ---
@@ -64,7 +64,9 @@ editačního formuláře
 
 - **[Základní konfigurace aplikace MEET](pages/0003.md)** ⚠️
 
-- **[Import uživatelů pomocí API](pages/0004.md)**
+- ✨ **[Import registrací uživatelů a firem](pages/0004a.md)**
+
+- **[Import uživatelů pomocí API](pages/0004b.md)**
 
 - [FAQ - často kladené dotazy](pages/0005.md)
 
