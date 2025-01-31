@@ -64,7 +64,7 @@ editačního formuláře
 
 - **[Základní konfigurace aplikace MEET](pages/0003.md)** ⚠️
 
-- ✨ **[Import registrací uživatelů a firem](pages/0004a.md)**
+- ✨ **[Import registrací, uživatelů a firem](pages/0004a.md)**
 
 - **[Import uživatelů pomocí API](pages/0004b.md)**
 
