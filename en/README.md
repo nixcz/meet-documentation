@@ -17,7 +17,7 @@
 |   \ / _ \ / __/ __| 
 | |) | (_) | (__\__ \
 |___/ \___/ \___|___/
-CZ 0.15 / 20231130
+CZ 0.3 / 20250201
 ``` 
 </small>
 
@@ -26,14 +26,14 @@ CZ 0.15 / 20231130
 </table>
 
 > [!IMPORTANT]
->🚧 **This documentation is still being intensively worked on!!!** If you come across any shortcomings, errors or that something is missing, please contact us at: dev@nix.cz 🚧
+>✨ **NEWS** - this is how the features that are part of the latest release of the application are marked.
 
 <details>
 <summary><strong>⚠️ LEGEND of icons used throughout the documentation 📌</strong>
 <br /><br />
 </summary>
 
->
+> ✨ **NEW**  
 > ⚠️ **Important information**
 >
 > 🚧 **Not used, future ready, under development**
@@ -64,7 +64,9 @@ editing form
 
 - **[Basic configuration of the MEET application](pages/0003.md)** ⚠️
 
-- **[Import users using API](pages/0004.md)**
+- ✨ **[Import registrations, users and companies](pages/0004a.md)**
+
+- **[Import users using API](pages/0004b.md)**
 
 - [FAQ - frequently asked questions](pages/0005.md)
 
